@@ -23,6 +23,13 @@
 
 🏡'I live in **Pereira Colombia**
 
+
 <!-- contact with me -->
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+
+<p>
+  <a href="mailto:tuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
