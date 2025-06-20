@@ -23,23 +23,52 @@
 
 🏡'I live in **Pereira Colombia**
 
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 
 <!-- contact with me -->
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+## 🤝🏻Connect with Me
 
 <p>
  <a href="mailto:kev312her@gmail.com">
-  <img src="https://img.icons8.com/?size=100&id=tnnUFgHrPmR0&format=png&color=FF0000" alt="Gmail Icon" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=tnnUFgHrPmR0&format=png&color=FF0000" alt="Gmail Icon" height="50"/>
 </a>
 
-  
 <a href="https://www.linkedin.com/in/kevin-herrera-gallego/" target="_blank">
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="LinkedIn Icon" height="40"/>
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="50"/>
+</a>
 
   <a href="https://github.com/kevin2003H" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="50"/>
 </a>
-
 </p>
+
+
+<!-- skill -->
+## 🛠️ Skills
+
+<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width = 500px></picture>
+#### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
+
+#### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+
+#### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)&nbsp;
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)&nbsp;
+
+#### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)&nbsp;
+
+#### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)&nbsp;
+
+</table>
