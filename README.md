@@ -29,14 +29,14 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 
 <p>
-  <a href="mailto:kev312her@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  
-<a href="https://www.linkedin.com/in/kevin-herrera-gallego/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ <a href="mailto:kev312her@gmail.com">
+  <img src="https://img.icons8.com/?size=100&id=tnnUFgHrPmR0&format=png&color=FF0000" alt="Gmail Icon" height="40"/>
 </a>
 
+  
+<a href="https://www.linkedin.com/in/kevin-herrera-gallego/" target="_blank">
+    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="LinkedIn Icon" height="40"/>
+  </a>
 
   <a href="https://github.com/kevin2003H" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
