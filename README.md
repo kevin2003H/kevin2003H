@@ -33,9 +33,10 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   
-<a href="https://www.linkedin.com/in/[Kevin Andrés Herrera Gallego](https://www.linkedin.com/in/kevin-andr%C3%A9s-herrera-gallego-5409342a3/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3BqEDfkZZFQMG8hizObZVyfw%3D%3D)/" target="_blank">
+<a href="https://www.linkedin.com/in/kevin-herrera-gallego/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
+
 
   <a href="https://github.com/kevin2003H" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
